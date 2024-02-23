@@ -10,12 +10,12 @@ namespace API.Controllers
     public class ProductsController : ControllerBase
     {
     [HttpGet("List")]
-    public string IActionResult(){
+    public string GetProducts(){
         return "This gonna return the products list";
     }
-    [HttpGet("Id")]
-    public string IActionResult(string id){
-        return "This code snippet it will return the product by id";
+    [HttpGet("id")]
+    public string GetProductsByID(string id){
+        return "This code snippet it will returns the product by id";
     } 
     }
 }
