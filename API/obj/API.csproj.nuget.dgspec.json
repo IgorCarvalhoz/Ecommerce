@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\Projeto\\Ecommerce\\Ecommerce\\api\\API.csproj": {}
+    "D:\\Projeto\\Ecommerce\\Ecommerce\\API\\API.csproj": {}
   },
   "projects": {
-    "D:\\Projeto\\Ecommerce\\Ecommerce\\api\\API.csproj": {
+    "D:\\Projeto\\Ecommerce\\Ecommerce\\API\\API.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\Projeto\\Ecommerce\\Ecommerce\\api\\API.csproj",
+        "projectUniqueName": "D:\\Projeto\\Ecommerce\\Ecommerce\\API\\API.csproj",
         "projectName": "API",
-        "projectPath": "D:\\Projeto\\Ecommerce\\Ecommerce\\api\\API.csproj",
+        "projectPath": "D:\\Projeto\\Ecommerce\\Ecommerce\\API\\API.csproj",
         "packagesPath": "C:\\Users\\Igor\\.nuget\\packages\\",
-        "outputPath": "D:\\Projeto\\Ecommerce\\Ecommerce\\api\\obj\\",
+        "outputPath": "D:\\Projeto\\Ecommerce\\Ecommerce\\API\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Igor\\AppData\\Roaming\\NuGet\\NuGet.Config"
