@@ -44,4 +44,3 @@ namespace API.Data.Migrations
         }
     }
 }
-
